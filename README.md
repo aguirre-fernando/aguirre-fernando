@@ -9,7 +9,7 @@
 #
 
 
-### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional. Sou estudante de Ciência e Tecnologia no IFPA campus Ananindeua e integrante do grupo de pesquisa GM²SC, focado em aplicação computacional interdisciplinar. Ativo em projetos de pesquisa sobre computação, energia renovável, inteligência artificial e meio-ambiente. Desenvolvendo habilidades em Python e MATLAB/OCTAVE para me tornar um Cientista de Dados (ou algo relacionado).
+### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional. Sou estudante de Ciência e Tecnologia no IFPA campus Ananindeua e integrante do grupo de pesquisa GM²SC, focado em aplicação matemática-computacional interdisciplinar. Ativo em projetos de pesquisa sobre computação, energia renovável, inteligência artificial e meio-ambiente. Desenvolvendo habilidades em Python e MATLAB/OCTAVE para me tornar um Cientista de Dados (ou algo relacionado).
 
 
 #
