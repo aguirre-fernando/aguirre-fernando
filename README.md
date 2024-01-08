@@ -23,6 +23,7 @@
 ## IDEs que eu uso:
 
 <div style="display: inline_block">
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Matlab" src="https://custom-icon-badges.demolab.com/badge/MATLAB-white?style=for-the-badge&logoColor=white&logo=matlab-1" />
   <img align="center" alt="Octave" src="https://custom-icon-badges.demolab.com/badge/OCTAVE-white?style=for-the-badge&logoColor=white&logo=octave-1" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R/RStudio-71a5d4?style=for-the-badge&logo=r&logoColor=white" />
