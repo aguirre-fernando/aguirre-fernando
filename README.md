@@ -2,7 +2,7 @@
 ## Olá! Eu sou Fernando Aguirre 🤓 <div style="display: inline_block"></div><br/>
 <div style="display: inline_block"> </div><br/>
 
-![Aguirre GitHub stats](https://github-readme-stats.vercel.app/api?username=aguirre-fernando&show_icons=true&theme=dracula&count_private=true)
+![Aguirre GitHub stats](https://github-readme-stats.vercel.app/api?username=aguirre-technsci&show_icons=true&theme=dracula&count_private=true)
 #
 
 ### "Uma visão ampla e integrada de diferentes campos do conhecimento é minha forma de contribuir para um futuro mais sustentável, tecnologicamente avançado e socialmente justo."
