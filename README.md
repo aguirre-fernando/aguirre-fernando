@@ -30,9 +30,9 @@
 ## Tecnologias favoritas:
 
 <div style="display: inline_block">
+  <img align="center" alt="qgis" src="https://custom-icon-badges.demolab.com/badge/qgis-white?style=for-the-badge&logoColor=white&logo=qgis-1" />
   <img align="center" alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-
 </div><br/>
 
 ## IDEs que eu uso:
