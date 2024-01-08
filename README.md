@@ -20,6 +20,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguirre-fernando/)
 [![E-mail](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguirrefernando.ifpa@gmail.com)
 
+
+## Linguagens de Programação favoritas:
+
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
+## Tecnologias favoritas:
+
+<div style="display: inline_block">
+  <img align="center" alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+
+</div><br/>
+
 ## IDEs que eu uso:
 
 <div style="display: inline_block">
@@ -27,7 +42,7 @@
   <img align="center" alt="Matlab" src="https://custom-icon-badges.demolab.com/badge/MATLAB-white?style=for-the-badge&logoColor=white&logo=matlab-1" />
   <img align="center" alt="Octave" src="https://custom-icon-badges.demolab.com/badge/OCTAVE-white?style=for-the-badge&logoColor=white&logo=octave-1" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R/RStudio-71a5d4?style=for-the-badge&logo=r&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Pyhton-1b3c58?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="spyder" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
   <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </div><br/>
 
