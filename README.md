@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Fernando Aguirre 🤓 <div style="display: inline_block"></div><br/>
+## Olá! 🤓 <div style="display: inline_block"></div><br/>
 <div style="display: inline_block"> </div><br/>
 
 ![Aguirre GitHub stats](https://github-readme-stats.vercel.app/api?username=aguirre-technsci&show_icons=true&theme=dracula&count_private=true)
