@@ -25,6 +25,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Matlab" src="https://custom-icon-badges.demolab.com/badge/MATLAB-white?style=for-the-badge&logoColor=white&logo=matlab-1" />
 </div><br/>
 
 ## Tecnologias favoritas:
